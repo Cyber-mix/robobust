@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robobust/static/css/main.617c47cc.chunk.css",
+    "main.js": "/robobust/static/js/main.3e69164c.chunk.js",
+    "main.js.map": "/robobust/static/js/main.3e69164c.chunk.js.map",
+    "runtime-main.js": "/robobust/static/js/runtime-main.4e6286bc.js",
+    "runtime-main.js.map": "/robobust/static/js/runtime-main.4e6286bc.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/robobust/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.f7606834.chunk.js": "/robobust/static/js/2.f7606834.chunk.js",
+    "static/js/2.f7606834.chunk.js.map": "/robobust/static/js/2.f7606834.chunk.js.map",
+    "index.html": "/robobust/index.html",
+    "precache-manifest.043dfbdc60c5c681fecb801651fc5adb.js": "/robobust/precache-manifest.043dfbdc60c5c681fecb801651fc5adb.js",
+    "service-worker.js": "/robobust/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/robobust/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.617c47cc.chunk.css.map": "/robobust/static/css/main.617c47cc.chunk.css.map",
+    "static/js/2.f7606834.chunk.js.LICENSE.txt": "/robobust/static/js/2.f7606834.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robobust/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e6286bc.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.f7606834.chunk.js",
+    "static/css/main.617c47cc.chunk.css",
+    "static/js/main.3e69164c.chunk.js"
+  ]
+}
